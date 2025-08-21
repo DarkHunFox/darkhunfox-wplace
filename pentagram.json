@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Pentagram",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pentagram.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/710?x=975&y=845",
+  "offsetX": 3,
+  "offsetY": 2,
+  "opacity": 0.7
+}
