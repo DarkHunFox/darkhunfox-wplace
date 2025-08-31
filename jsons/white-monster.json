@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "White Monster",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/white-monster.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/710?x=810&y=886",
+  "offsetX": -10,
+  "offsetY": -6,
+  "opacity": 0.7
+}
