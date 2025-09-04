@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Pipeline Punch Monster",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/pipeline-punch-monster.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/710?x=562&y=882",
+  "offsetX": -7,
+  "offsetY": 0,
+  "opacity": 0.7
+}
