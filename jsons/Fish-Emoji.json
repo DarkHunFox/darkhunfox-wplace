@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Fish-Emoji",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/Fish_Emoji.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/710?x=993&y=728",
+  "offsetX": 0,
+  "offsetY": 0,
+  "opacity": 0.7
+}
