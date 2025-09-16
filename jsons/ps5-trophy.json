@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "PS5 Trophy",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/ps5-plat.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/711?x=689&y=146",
+  "offsetX": 70,
+  "offsetY": -70,
+  "opacity": 0.7
+}
