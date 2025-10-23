@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "name": "nurse",
-  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/wplace-pixel_lili.png",
-  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/710?x=205&y=75",
-  "offsetX": -20,
+  "name": "Lilith Nurse 999px",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/CG_Nurse_8-wplace-999px.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1150/709?x=295&y=677",
+  "offsetX": 0,
   "offsetY": 0,
-  "opacity": 0.85
+  "opacity": 1
 }
