@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Two Pieces",
+  "imageUrl": "https://raw.githubusercontent.com/DarkHunFox/darkhunfox-wplace/refs/heads/main/pngs/two-pieces.png",
+  "pixelUrl": "https://backend.wplace.live/s0/pixel/1149/711?x=594&y=286",
+  "offsetX": 0,
+  "offsetY": 0,
+  "opacity": 0.7
+}
